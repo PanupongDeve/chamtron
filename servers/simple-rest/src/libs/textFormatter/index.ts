@@ -15,7 +15,7 @@ class TextFormatter extends BaseTextFormatter {
 
 
     getInstance() {
-        return this;
+        return this.instance;
     }
 }
 

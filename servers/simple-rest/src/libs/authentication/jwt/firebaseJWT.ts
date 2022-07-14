@@ -15,7 +15,7 @@ class FirebaseJWT extends BaseJWT {
 
 
     getInstance() {
-        return this;
+        return this.instance;
     }
 }
 
